@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/front/js/front.js": "/front/js/front.js",
+    "/front/css/front.css": "/front/css/front.css",
+    "/front/css/front2.css": "/front/css/front2.css",
+    "/back/assets/css/back.css": "/back/assets/css/back.css",
+    "/back/assets/js/back.js": "/back/assets/js/back.js"
+}
